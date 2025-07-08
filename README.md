@@ -26,3 +26,6 @@ Data Transformation using Power Query (M)
 📌 Use Case
 Designed for business stakeholders to explore and analyze sales data efficiently, enabling data-driven decision-making related to regional performance, high-value customers, and product line optimization.
 
+
+
+
